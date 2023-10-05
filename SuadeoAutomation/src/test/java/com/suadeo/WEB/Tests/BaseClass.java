@@ -13,6 +13,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.io.FileHandler;
 import org.testng.Assert;
@@ -68,9 +69,16 @@ public class BaseClass {
 		PropertiesFile.getProperties();
 
 		if(browserName.equalsIgnoreCase("chrome")) //Chrome driver instantiates using an object of WebDriver class.
+		
 		{
+			ChromeOptions chromeOptions = new ChromeOptions();
+		if (System.getProperty("os.name").toLowerCase().contains("linux")) {
+			chromeOptions.addArguments("--headless");
+		}
+		
+		
 			WebDriverManager.chromedriver().setup();
-			driver = new ChromeDriver();
+			driver = new ChromeDriver(chromeOptions);
 			driver.manage().window().maximize();
 			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			Thread.sleep(4000);
