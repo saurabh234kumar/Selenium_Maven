@@ -144,7 +144,7 @@
 				<version>3.1.2</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\skumar\Documents\Selenium_Maven\SuadeoAutomation\src\test\resources\SanityTest.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/SanityTest.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
