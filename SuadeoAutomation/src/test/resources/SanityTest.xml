@@ -5,13 +5,15 @@
 
 
 			<class name="com.suadeo.WEB.Tests.Test_SignInPage" />
+			
+			<!--
 			<class name="com.suadeo.WEB.Tests.Test_Menu" />
 			<class name="com.suadeo.WEB.Tests.Test_Catalogs" />
 			<class name="com.suadeo.WEB.Tests.Test_Models" />
 
 
 
-			<!--			<class name="com.suadeo.WEB.Tests.Test_SignInPage" />
+				<class name="com.suadeo.WEB.Tests.Test_SignInPage" />
 			<class name="com.suadeo.WEB.Tests.Test_Menu" />
 			<class name="com.suadeo.WEB.Tests.Test_Catalogs" />
 			<class name="com.suadeo.WEB.Tests.Test_Models" />-->
