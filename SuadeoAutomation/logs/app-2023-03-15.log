@@ -1,0 +1,309 @@
+[INFO ] 2023-03-15 14:41:56.581 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-15 14:41:56.581 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-15 14:41:56.599 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-15 15:08:26.681 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:08:26.681 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:08:26.687 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:08:26.687 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:08:26.689 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:08:26.689 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:08:26.689 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:08:26.689 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:09:23.324 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:09:23.324 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:09:23.334 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:09:23.334 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:09:23.334 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:09:23.334 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:09:23.335 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:09:23.335 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:11:38.744 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:11:38.744 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:11:38.751 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:11:38.751 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:11:38.752 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:11:38.752 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:11:38.752 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:11:38.752 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:12:15.966 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:12:15.966 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:12:15.973 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:12:17.106 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (15c68ba319705853926ebcfd8a9c4de5)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:12:17.106 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:12:26.255 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (15c68ba319705853926ebcfd8a9c4de5)] -> id: j_username]
+[INFO ] 2023-03-15 15:12:26.255 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:12:39.606 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-15 15:12:39.606 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-15 15:12:39.607 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-15 15:12:41.074 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (5fa8cd2bc5b0825ea605234d3edbf9c8)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-15 15:12:41.074 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-15 15:12:50.276 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (5fa8cd2bc5b0825ea605234d3edbf9c8)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-15 15:12:50.276 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-15 15:12:53.604 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (5fa8cd2bc5b0825ea605234d3edbf9c8)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-15 15:12:53.604 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-15 15:13:22.523 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (5fa8cd2bc5b0825ea605234d3edbf9c8)] -> id: addToCartButton]
+[INFO ] 2023-03-15 15:13:22.523 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-15 15:24:32.778 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:24:32.778 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:24:32.783 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:24:33.947 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (6adcfa48e6e4fa71eeb3702086d3a09e)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:24:33.947 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:24:42.810 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (6adcfa48e6e4fa71eeb3702086d3a09e)] -> id: j_username]
+[INFO ] 2023-03-15 15:24:42.811 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-15 15:24:51.616 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-15 15:24:52.709 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (3d390474ce426d375bbfcab9f478146c)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-15 15:24:52.709 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-15 15:24:55.922 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (3d390474ce426d375bbfcab9f478146c)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-15 15:24:55.922 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-15 15:28:49.885 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:28:49.885 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:28:49.888 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:28:51.016 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (536d20bc5fd6377422c72ff030bd5989)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:28:51.017 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:28:57.693 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (536d20bc5fd6377422c72ff030bd5989)] -> id: j_username]
+[INFO ] 2023-03-15 15:28:57.693 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:29:00.033 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (536d20bc5fd6377422c72ff030bd5989)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:29:00.033 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:29:07.453 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-15 15:29:07.453 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-15 15:29:07.454 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-15 15:31:12.054 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:31:12.054 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:31:12.066 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:31:13.433 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a872b0c35be745922415907b0e1c8e8f)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:31:13.433 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:31:19.604 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (a872b0c35be745922415907b0e1c8e8f)] -> id: j_username]
+[INFO ] 2023-03-15 15:31:19.604 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:31:21.980 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a872b0c35be745922415907b0e1c8e8f)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:31:21.980 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:40:20.282 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:40:20.282 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:40:20.292 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:40:20.292 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:40:20.293 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:40:20.293 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:40:20.293 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:40:20.293 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:40:21.446 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a12cbe123753ae50529f2dcefd35d93b)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:40:21.446 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:40:29.110 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (a12cbe123753ae50529f2dcefd35d93b)] -> id: j_username]
+[INFO ] 2023-03-15 15:40:29.110 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:40:31.545 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a12cbe123753ae50529f2dcefd35d93b)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:40:31.545 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:58:36.691 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 15:58:36.691 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 15:58:36.698 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 15:58:38.010 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (b853c489ec173facad6aff909ee747e0)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 15:58:38.011 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 15:58:45.094 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (b853c489ec173facad6aff909ee747e0)] -> id: j_username]
+[INFO ] 2023-03-15 15:58:45.094 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:03:35.794 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:03:35.794 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:03:35.800 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:03:36.959 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7a597069ef9b6a163db37ee953919878)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:03:36.959 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:03:44.133 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (7a597069ef9b6a163db37ee953919878)] -> id: j_username]
+[INFO ] 2023-03-15 16:03:44.133 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:03:53.366 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (7a597069ef9b6a163db37ee953919878)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:03:53.366 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:05:03.822 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:05:03.822 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:05:03.829 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:05:05.129 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (13aa3dbf578fbd3a2fc2401e305d54f1)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:05:05.129 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:05:11.825 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (13aa3dbf578fbd3a2fc2401e305d54f1)] -> id: j_username]
+[INFO ] 2023-03-15 16:05:11.826 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:05:20.608 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (13aa3dbf578fbd3a2fc2401e305d54f1)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:05:20.608 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:07:15.781 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:07:15.781 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:07:15.787 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:07:17.089 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (98905acc079b0bbe1418f4d3d25a2cb6)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:07:17.089 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:07:23.225 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (98905acc079b0bbe1418f4d3d25a2cb6)] -> id: j_username]
+[INFO ] 2023-03-15 16:07:23.225 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:07:31.258 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (98905acc079b0bbe1418f4d3d25a2cb6)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:07:31.258 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:07:33.543 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (98905acc079b0bbe1418f4d3d25a2cb6)] -> xpath: 	//*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[3]]
+[INFO ] 2023-03-15 16:07:33.543 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:14:44.350 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:14:44.350 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:14:44.356 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:14:45.506 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (8e11a5d884c474e751251dc2f4e3dd79)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:14:45.506 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:14:53.643 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (8e11a5d884c474e751251dc2f4e3dd79)] -> id: j_username]
+[INFO ] 2023-03-15 16:14:53.643 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:15:02.616 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (8e11a5d884c474e751251dc2f4e3dd79)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:15:02.617 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:15:05.023 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (8e11a5d884c474e751251dc2f4e3dd79)] -> xpath: 	//*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[3]]
+[INFO ] 2023-03-15 16:15:05.023 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:16:45.477 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:16:45.477 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:16:45.483 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:16:46.861 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (910b2d3fae6bf86fdd2262596d922d38)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:16:46.861 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:16:56.537 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (910b2d3fae6bf86fdd2262596d922d38)] -> id: j_username]
+[INFO ] 2023-03-15 16:16:56.538 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:17:15.409 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (910b2d3fae6bf86fdd2262596d922d38)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:17:15.410 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:17:19.564 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (910b2d3fae6bf86fdd2262596d922d38)] -> xpath: 	//*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[3]]
+[INFO ] 2023-03-15 16:17:19.565 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:21:38.402 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:21:38.402 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:21:38.411 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:21:39.602 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (1fb10edde9221641446a09794394f0b2)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:21:39.602 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:21:47.493 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (1fb10edde9221641446a09794394f0b2)] -> id: j_username]
+[INFO ] 2023-03-15 16:21:47.494 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:21:57.254 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (1fb10edde9221641446a09794394f0b2)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:21:57.255 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:21:59.592 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (1fb10edde9221641446a09794394f0b2)] -> xpath: 	//*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[3]]
+[INFO ] 2023-03-15 16:21:59.593 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:23:24.632 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-15 16:23:24.632 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-15 16:23:24.637 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-15 16:23:25.753 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (c4d83ca6796c21d6838907ff0a7f5b79)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-15 16:23:25.754 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-15 16:23:30.808 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (c4d83ca6796c21d6838907ff0a7f5b79)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-15 16:23:30.808 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-15 16:32:16.843 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:32:16.843 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:32:16.855 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:32:18.098 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (10128f88a43c3d86b6957c6f79b9c866)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:32:18.098 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:32:25.005 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (10128f88a43c3d86b6957c6f79b9c866)] -> id: j_username]
+[INFO ] 2023-03-15 16:32:25.005 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:32:34.130 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (10128f88a43c3d86b6957c6f79b9c866)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:32:34.130 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:32:36.546 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (10128f88a43c3d86b6957c6f79b9c866)] -> xpath: 	//*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[3]]
+[INFO ] 2023-03-15 16:32:36.547 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:35:23.794 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:35:23.794 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:35:23.799 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:35:24.939 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (37f8d2d7003ddb464333fd586f78cec1)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:35:24.939 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:35:33.325 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (37f8d2d7003ddb464333fd586f78cec1)] -> id: j_username]
+[INFO ] 2023-03-15 16:35:33.325 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:35:43.920 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (37f8d2d7003ddb464333fd586f78cec1)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:35:43.920 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:38:19.594 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:38:19.594 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:38:19.603 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:38:20.847 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (76667441f6a1b8b0a61249659e76a7ad)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:38:20.847 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:38:27.034 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (76667441f6a1b8b0a61249659e76a7ad)] -> id: j_username]
+[INFO ] 2023-03-15 16:38:27.034 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:38:34.094 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (76667441f6a1b8b0a61249659e76a7ad)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:38:34.094 [main] Logger - SignOut Button is displayed 
+[INFO ] 2023-03-15 16:46:06.391 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-15 16:46:06.391 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-15 16:46:06.398 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-15 16:46:07.685 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (73432fa6613188e00732956ce0e4773d)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-15 16:46:07.685 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:46:16.127 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (73432fa6613188e00732956ce0e4773d)] -> id: j_username]
+[INFO ] 2023-03-15 16:46:16.127 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-15 16:46:24.269 [main] Logger - MyAccount signout button: [[ChromeDriver: chrome on WINDOWS (73432fa6613188e00732956ce0e4773d)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a[2]]
+[INFO ] 2023-03-15 16:46:24.269 [main] Logger - SignOut Button is displayed 
+[ERROR] 2023-03-15 16:46:25.550 [main] Logger - The completeCollection ViewAllsection Object ID might have changed

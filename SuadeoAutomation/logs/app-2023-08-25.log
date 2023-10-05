@@ -1,0 +1,28 @@
+[INFO ] 2023-08-25 11:06:26.577 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 11:06:26.598 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 11:06:26.598 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 11:06:26.598 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 11:09:15.327 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 11:09:15.334 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 11:09:15.334 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 11:09:15.335 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 11:56:30.311 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 11:56:30.319 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 11:56:30.319 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 11:56:30.320 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 11:58:17.054 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 11:58:17.061 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 11:58:17.061 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 11:58:17.061 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 12:20:22.486 [main] Test_ContactLensesCategory - VerifyTitle
+[INFO ] 2023-08-25 12:20:22.494 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 12:20:22.494 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 12:20:22.494 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 12:20:22.494 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 12:20:22.516 [main] Test_ContactLensesCategory - Failed
+[INFO ] 2023-08-25 14:39:23.839 [main] Test_ContactLensesCategory - VerifyTitle
+[INFO ] 2023-08-25 14:39:23.849 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-08-25 14:39:23.849 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-08-25 14:39:23.850 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-08-25 14:39:23.850 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-08-25 14:39:23.869 [main] Test_ContactLensesCategory - Pass

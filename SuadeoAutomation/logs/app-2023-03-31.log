@@ -1,0 +1,46 @@
+[INFO ] 2023-03-31 17:21:55.010 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-31 17:21:55.010 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-31 17:21:55.022 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-31 17:21:56.170 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (0595ed525680befd040b7f694c12c02c)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-31 17:21:56.171 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-31 17:21:59.488 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (0595ed525680befd040b7f694c12c02c)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-31 17:21:59.489 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:22:02.508 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (0595ed525680befd040b7f694c12c02c)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-31 17:22:02.508 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:24:26.027 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-31 17:24:26.027 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-31 17:24:26.032 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-31 17:24:27.385 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (e7b2326e3cddede4ec7a27e19f4af9ff)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-31 17:24:27.385 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-31 17:24:30.573 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (e7b2326e3cddede4ec7a27e19f4af9ff)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-31 17:24:30.573 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:24:33.780 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (e7b2326e3cddede4ec7a27e19f4af9ff)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-31 17:24:33.780 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:24:39.502 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (e7b2326e3cddede4ec7a27e19f4af9ff)] -> id: addToCartButton]
+[INFO ] 2023-03-31 17:24:39.502 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:35:45.500 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-31 17:35:45.500 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-31 17:35:45.505 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-31 17:35:45.505 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-31 17:35:45.506 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-31 17:35:45.506 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-31 17:35:45.506 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-31 17:35:45.506 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-31 17:35:46.741 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (4412fd7abef3d80640567a8ce1f735b9)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-31 17:35:46.741 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-31 17:35:50.561 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (4412fd7abef3d80640567a8ce1f735b9)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-31 17:35:50.562 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:35:53.695 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (4412fd7abef3d80640567a8ce1f735b9)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-31 17:35:53.695 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-31 17:35:58.268 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (4412fd7abef3d80640567a8ce1f735b9)] -> id: addToCartButton]
+[INFO ] 2023-03-31 17:35:58.268 [main] Logger - Color subcategory is displayed 

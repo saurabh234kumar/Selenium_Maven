@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Doctor-M  Web  Sanity Suite" verbose="10">
+  
+   <test name="Doctor-M  Web  Sanity Suite" preserve-order="true">
+   <classes> <!--     Sanity   Web Suites For Doctor M       --> 
+      <!--<class name="com.magrabi.WEB.Tests.Test_SignInPage"/> -->
+      <class name="com.magrabi.WEB.Tests.Test_ContactLensesCategory"/>
+       <!--<class name="com.magrabi.WEB.Tests.Test_ContactLensesCategory"/>-->
+       <!-- <methods>
+       <include name="magrabiSignIn"></include>
+        <exclude name="magrabiSignIn_EmailPassword"></exclude>
+       </methods>
+      </class>-->
+    </classes>
+  </test>
+</suite>

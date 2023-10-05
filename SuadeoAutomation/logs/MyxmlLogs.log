@@ -1,0 +1,216 @@
+[INFO ] 2023-08-30 09:05:17.859 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 09:05:17.884 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 09:05:17.885 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 09:05:17.885 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 09:05:19.160 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (17645ed9c2bdf32ab3e034cb1b6a6b8c)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 09:05:19.160 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:05:32.900 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (17645ed9c2bdf32ab3e034cb1b6a6b8c)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 09:05:32.901 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:16:31.956 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 09:16:31.966 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 09:16:31.966 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 09:16:31.966 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 09:16:33.211 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (1f3aa1efae4d9184e4e8ed4f0d3b2578)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 09:16:33.212 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:16:46.061 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (1f3aa1efae4d9184e4e8ed4f0d3b2578)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 09:16:46.062 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:21:12.900 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 09:21:12.909 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 09:21:12.909 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 09:21:12.909 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 09:21:14.200 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (b664a38e47e92c43f10674774c9d99e7)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 09:21:14.200 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:21:27.133 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (b664a38e47e92c43f10674774c9d99e7)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 09:21:27.133 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:32:54.376 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 09:32:54.385 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 09:32:54.386 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 09:32:54.386 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 09:32:55.668 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f7ceb4ca6be3a7e1bb6bcbe41415a1d4)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 09:32:55.668 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:33:08.651 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f7ceb4ca6be3a7e1bb6bcbe41415a1d4)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 09:33:08.651 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:49:19.116 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 09:49:19.126 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 09:49:19.126 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 09:49:19.126 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 09:49:20.440 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (2ea35f05637e7712b23a30d4c588da6e)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 09:49:20.440 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 09:49:33.445 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (2ea35f05637e7712b23a30d4c588da6e)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 09:49:33.446 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 10:10:12.308 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 10:10:12.317 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 10:10:12.317 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 10:10:12.317 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 10:10:13.584 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (d327e09b2355f9b03645e259d2b655e3)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 10:10:13.584 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 10:10:26.578 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (d327e09b2355f9b03645e259d2b655e3)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 10:10:26.578 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 10:32:24.118 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 10:32:24.128 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 10:32:24.128 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 10:32:24.128 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 10:32:25.405 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (4308f77ca3a388a92c46f852a9e601e5)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 10:32:25.406 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 10:32:38.506 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (4308f77ca3a388a92c46f852a9e601e5)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 10:32:38.506 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:00:29.635 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 11:00:29.642 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 11:00:29.642 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 11:00:29.642 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 11:00:30.964 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7a194eda3e5488a5dfc6cbb718beaa4c)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 11:00:30.964 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:00:43.948 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7a194eda3e5488a5dfc6cbb718beaa4c)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 11:00:43.949 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:06:26.804 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 11:06:26.815 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 11:06:26.815 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 11:06:26.815 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 11:06:28.134 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (c3c0699d56ff0d493351dadadc28ced2)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 11:06:28.134 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:06:41.062 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (c3c0699d56ff0d493351dadadc28ced2)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 11:06:41.062 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:17:55.497 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 11:17:55.507 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 11:17:55.507 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 11:17:55.507 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 11:17:56.802 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (6df82b4916121cefddca4d9b8809846b)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 11:17:56.802 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:18:09.917 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (6df82b4916121cefddca4d9b8809846b)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 11:18:09.917 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:22:26.780 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 11:22:26.790 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 11:22:26.790 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 11:22:26.791 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 11:22:28.089 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (58e406893a0e09768642f15a9d4676b2)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 11:22:28.090 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:22:41.028 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (58e406893a0e09768642f15a9d4676b2)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 11:22:41.029 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:24:50.319 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 11:24:50.330 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 11:24:50.330 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 11:24:50.330 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 11:24:51.566 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (336f8e2354f14a933e3e2d5e960a5098)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 11:24:51.567 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 11:25:04.414 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (336f8e2354f14a933e3e2d5e960a5098)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 11:25:04.415 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:17:03.143 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 13:17:03.150 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 13:17:03.151 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 13:17:03.151 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 13:17:04.438 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (aed13006fdbc7a231bc60cac1fa6a3da)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 13:17:04.438 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:17:17.389 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (aed13006fdbc7a231bc60cac1fa6a3da)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 13:17:17.389 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:37:15.483 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 13:37:15.489 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 13:37:15.490 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 13:37:15.490 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 13:37:16.737 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (405ec235d6b88b380f94e17b58c5d494)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 13:37:16.737 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:37:29.457 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (405ec235d6b88b380f94e17b58c5d494)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 13:37:29.457 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:59:41.369 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 13:59:41.376 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 13:59:41.376 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 13:59:41.376 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 13:59:42.692 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (b5a3e63941b9cf6a6c9142ce6cccd7ae)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 13:59:42.692 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 13:59:55.678 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (b5a3e63941b9cf6a6c9142ce6cccd7ae)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 13:59:55.678 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:34:13.787 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 14:34:13.794 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 14:34:13.794 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 14:34:13.794 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 14:34:15.073 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (00afb270e9f5411a194b67896a798fb8)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 14:34:15.073 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:34:27.963 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (00afb270e9f5411a194b67896a798fb8)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 14:34:27.963 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:38:03.515 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 14:38:03.523 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 14:38:03.523 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 14:38:03.523 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 14:38:04.812 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (af63885226ae9199c7d6d9979d996ca6)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 14:38:04.812 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:38:17.865 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (af63885226ae9199c7d6d9979d996ca6)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 14:38:17.865 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:45:15.855 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 14:45:15.864 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 14:45:15.865 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 14:45:15.865 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 14:45:17.088 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f287b24f198946e8306c58fde26920a3)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 14:45:17.089 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 14:45:29.871 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f287b24f198946e8306c58fde26920a3)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 14:45:29.872 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:10:10.425 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 15:10:10.436 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 15:10:10.436 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 15:10:10.437 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 15:10:11.723 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7e335b9c3ba5dc347eae585f87b6569d)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 15:10:11.723 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:10:24.655 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7e335b9c3ba5dc347eae585f87b6569d)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 15:10:24.656 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:44:30.380 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 15:44:30.388 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 15:44:30.389 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 15:44:30.389 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 15:44:31.697 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (c373c88d1a7a80b0e4139484a6b6dbea)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 15:44:31.697 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:44:44.597 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (c373c88d1a7a80b0e4139484a6b6dbea)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 15:44:44.597 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:53:13.932 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 15:53:13.939 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 15:53:13.939 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 15:53:13.939 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 15:53:15.246 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (0453393376435a32bf8345706ce235e5)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 15:53:15.246 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 15:53:28.085 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (0453393376435a32bf8345706ce235e5)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 15:53:28.085 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:00:11.984 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 16:00:11.993 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 16:00:11.994 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 16:00:11.994 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 16:00:13.292 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (89771a7fef1785e680aa4bd0c0bb4696)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 16:00:13.293 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:00:26.193 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (89771a7fef1785e680aa4bd0c0bb4696)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 16:00:26.193 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:47:09.689 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 16:47:09.699 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 16:47:09.700 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 16:47:09.700 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 16:47:11.002 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (9e827c3c1a6d625a4123c9b176b93326)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 16:47:11.003 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:47:23.885 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (9e827c3c1a6d625a4123c9b176b93326)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 16:47:23.885 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:56:57.449 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 16:56:57.457 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 16:56:57.457 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 16:56:57.457 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 16:56:58.772 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a1c8c1f8df07b747c1e240a50bb4f869)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 16:56:58.773 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:57:11.715 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a1c8c1f8df07b747c1e240a50bb4f869)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 16:57:11.715 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:58:12.408 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 16:58:12.416 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 16:58:12.416 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 16:58:12.417 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 16:58:13.650 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f5c160c0857607fb5b4724daa845905b)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 16:58:13.651 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 16:58:26.433 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f5c160c0857607fb5b4724daa845905b)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 16:58:26.434 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 17:01:48.305 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 17:01:48.317 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 17:01:48.317 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 17:01:48.317 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 17:01:49.634 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (d7515dffa597b72eba16164ef6538737)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 17:01:49.634 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 17:02:02.618 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (d7515dffa597b72eba16164ef6538737)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 17:02:02.619 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 17:09:24.108 [main] Test_SignInPage - This is information message
+[ERROR] 2023-08-30 17:09:24.115 [main] Test_SignInPage - This is error message
+[WARN ] 2023-08-30 17:09:24.116 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-08-30 17:09:24.116 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-08-30 17:09:25.437 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (9a239187867b9b6189d401562d0fb001)] -> xpath: //input[@placeholder='Authentification']]
+[INFO ] 2023-08-30 17:09:25.438 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-08-30 17:09:38.380 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (9a239187867b9b6189d401562d0fb001)] -> xpath: //span[@class='user-name display-name']]
+[INFO ] 2023-08-30 17:09:38.381 [main] Logger - SignIn Button is displayed 

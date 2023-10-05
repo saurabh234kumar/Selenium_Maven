@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Magrabi  Web  Sanity Suite]" guice-stage="DEVELOPMENT" verbose="10">
+  <test thread-count="5" name="Magrabi  Web  Sanity Suite(failed)" verbose="10">
+    <classes>
+      <class name="com.magrabi.WEB.Tests.Test_SignInPage">
+        <methods>
+          <include name="magrabiSignIn"/>
+          <include name="beforeTestt"/>
+          <include name="tearDown"/>
+          <include name="magrabiSignIn_EmailPassword"/>
+        </methods>
+      </class> <!-- com.magrabi.WEB.Tests.Test_SignInPage -->
+    </classes>
+  </test> <!-- Magrabi  Web  Sanity Suite(failed) -->
+</suite> <!-- Failed suite [Magrabi  Web  Sanity Suite] -->

@@ -1,0 +1,40 @@
+[INFO ] 2023-04-03 12:02:16.061 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-04-03 12:02:16.061 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-04-03 12:02:16.078 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-04-03 12:02:17.318 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (6249b1ba510a610a2c9a5358699ececa)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-04-03 12:02:17.319 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-04-03 12:02:21.999 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (6249b1ba510a610a2c9a5358699ececa)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-04-03 12:02:21.999 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-04-03 12:02:25.854 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (6249b1ba510a610a2c9a5358699ececa)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-04-03 12:02:25.854 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-04-03 12:02:29.334 [main] Logger - PDP Fav icon is available at Product Display Page:
+[INFO ] 2023-04-03 12:02:29.503 [main] Logger - PDP Highlights:Monthly
+Hydrogel
+UV
+Pack Of 1
+[ERROR] 2023-04-03 12:02:29.531 [main] Logger - Unable to Fetch Tabby message Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="product-detail"]/div[1]/div[1]/div[2]/div[6]/div/div/div//div/div/span/span[1]'
+[INFO ] 2023-04-03 12:05:38.149 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-04-03 12:05:38.149 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-04-03 12:05:38.155 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-04-03 12:05:39.272 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (1cb9bc33cae753fa47df3080f9663430)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-04-03 12:05:39.273 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-04-03 12:05:43.898 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (1cb9bc33cae753fa47df3080f9663430)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-04-03 12:05:43.898 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-04-03 12:05:47.151 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (1cb9bc33cae753fa47df3080f9663430)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-04-03 12:05:47.151 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-04-03 12:05:50.256 [main] Logger - PDP Fav icon is available at Product Display Page:
+[INFO ] 2023-04-03 12:05:50.381 [main] Logger - PDP Highlights:Monthly
+Hydrogel
+UV
+Pack Of 1
+[ERROR] 2023-04-03 12:05:50.416 [main] Logger - Unable to Fetch Tabby message Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="product-detail"]/div[1]/div[1]/div[2]/div[6]/div/div/div//div/div/span/span[1]'

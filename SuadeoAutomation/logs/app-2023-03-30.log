@@ -1,0 +1,217 @@
+[INFO ] 2023-03-30 16:48:45.433 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 16:48:45.433 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 16:48:45.443 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 16:48:46.574 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (eed92c275accad12c6b85f4f6e68fa10)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 16:48:46.574 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 16:48:52.101 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (eed92c275accad12c6b85f4f6e68fa10)] -> id: j_username]
+[INFO ] 2023-03-30 16:48:52.102 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 16:49:01.241 [main] Logger - MyAccount signout button:saurabh
+[ERROR] 2023-03-30 16:49:12.878 [main] Logger - The completeCollection ViewAllsection Object ID might have changed
+[INFO ] 2023-03-30 17:05:05.779 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:05:05.779 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:05:05.784 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:05:05.784 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:05:05.784 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:05:05.784 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:05:05.786 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:05:05.786 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:05:06.963 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (c0b6e4f1ebe08df49e03762f4b1bdbaf)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:05:06.963 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:05:12.426 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (c0b6e4f1ebe08df49e03762f4b1bdbaf)] -> id: j_username]
+[INFO ] 2023-03-30 17:05:12.426 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:05:22.320 [main] Logger - MyAccount signout button:saurabh
+[ERROR] 2023-03-30 17:05:41.987 [main] Logger - The completeCollection ViewAllsection Object ID might have changed
+[INFO ] 2023-03-30 17:10:44.675 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:10:44.675 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:10:44.680 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:10:44.680 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:10:44.681 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:10:44.681 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:10:44.681 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:10:44.681 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:10:45.832 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (df3ed559ede9e926907a449579922b6c)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:10:45.832 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:10:50.916 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (df3ed559ede9e926907a449579922b6c)] -> id: j_username]
+[INFO ] 2023-03-30 17:10:50.917 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:11:00.162 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:14:58.344 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:14:58.344 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:14:58.354 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:14:59.546 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (a4e08f83f6e407cf9ff3e2129c755c99)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:14:59.546 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:15:04.436 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (a4e08f83f6e407cf9ff3e2129c755c99)] -> id: j_username]
+[INFO ] 2023-03-30 17:15:04.437 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:15:13.248 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:17:42.974 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:17:42.974 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:17:42.984 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:17:44.132 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (6d91c8371ef9729e9d9335112ee6eb98)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:17:44.132 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:17:49.434 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (6d91c8371ef9729e9d9335112ee6eb98)] -> id: j_username]
+[INFO ] 2023-03-30 17:17:49.434 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:17:57.954 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:17:59.221 [main] Logger - The completeCollection ViewAll section at Product Display Page isLogout
+[INFO ] 2023-03-30 17:21:22.537 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:21:22.537 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:21:22.542 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:21:23.803 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (f26df7faf7b6c31ba3a9b3cab0b9d63c)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:21:23.803 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:21:30.001 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (f26df7faf7b6c31ba3a9b3cab0b9d63c)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:21:30.001 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:21:34.276 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (f26df7faf7b6c31ba3a9b3cab0b9d63c)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:21:34.276 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:21:38.737 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (f26df7faf7b6c31ba3a9b3cab0b9d63c)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:21:38.737 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:22:53.305 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:22:53.305 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:22:53.311 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:22:54.450 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (242bc9fd06680028cc003adffac44d6d)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:22:54.450 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:22:58.094 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (242bc9fd06680028cc003adffac44d6d)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:22:58.094 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:23:05.822 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (242bc9fd06680028cc003adffac44d6d)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:23:05.822 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:23:12.972 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (242bc9fd06680028cc003adffac44d6d)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:23:12.972 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:25:33.079 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:25:33.079 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:25:33.091 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:25:34.242 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (f2f729777de343dd5d51bcca09aba6da)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:25:34.242 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:25:39.244 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (f2f729777de343dd5d51bcca09aba6da)] -> id: j_username]
+[INFO ] 2023-03-30 17:25:39.244 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:26:30.590 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:27:02.086 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:27:02.086 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:27:02.090 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:27:03.229 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (e6953c2f8fe09b4c42ea05821a355701)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:27:03.229 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:27:08.338 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (e6953c2f8fe09b4c42ea05821a355701)] -> id: j_username]
+[INFO ] 2023-03-30 17:27:08.338 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:27:44.740 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:27:48.549 [main] Logger - The completeCollection ViewAll section at Product Display Page isLogout
+[INFO ] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:28:05.098 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:28:05.099 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:28:05.099 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:28:06.180 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (42406426d5a5df70f53b0caf00b42b7d)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:28:06.180 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:28:10.415 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (42406426d5a5df70f53b0caf00b42b7d)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:28:10.415 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:28:14.253 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (42406426d5a5df70f53b0caf00b42b7d)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:28:14.254 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:28:18.545 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (42406426d5a5df70f53b0caf00b42b7d)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:28:18.545 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:35:25.804 [main] Test_SignInPage - This is information message
+[INFO ] 2023-03-30 17:35:25.804 [main] Test_SignInPage - This is information message
+[ERROR] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is error message
+[ERROR] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is error message
+[WARN ] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is warning message
+[WARN ] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is warning message
+[FATAL] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is fatal message
+[FATAL] 2023-03-30 17:35:25.812 [main] Test_SignInPage - This is fatal message
+[INFO ] 2023-03-30 17:35:27.044 [main] Logger - SignIn button: [[ChromeDriver: chrome on WINDOWS (7a3f04e23e47d293397461e29ebe5fcb)] -> xpath: //*[@id="site-header"]/div[2]/div[2]/div[3]/div/a/span]
+[INFO ] 2023-03-30 17:35:27.044 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:35:31.939 [main] Logger - PromoCode Text is : [[ChromeDriver: chrome on WINDOWS (7a3f04e23e47d293397461e29ebe5fcb)] -> id: j_username]
+[INFO ] 2023-03-30 17:35:31.939 [main] Logger - SignIn Button is displayed 
+[INFO ] 2023-03-30 17:35:40.581 [main] Logger - MyAccount signout button:saurabh
+[INFO ] 2023-03-30 17:35:42.098 [main] Logger - The completeCollection ViewAll section at Product Display Page isLogout
+[INFO ] 2023-03-30 17:35:56.103 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:35:56.103 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:35:56.107 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:35:57.188 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (2a08f82390acc71b17bac270aa9102fa)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:35:57.188 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:36:03.273 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (2a08f82390acc71b17bac270aa9102fa)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:36:03.273 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:36:57.955 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:36:57.955 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:36:57.962 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:36:57.962 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:36:57.962 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:36:57.962 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:36:57.963 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:36:57.963 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:36:59.070 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (03c6cf665c24b60b0f8e66a3becf964f)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:36:59.070 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:37:03.167 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (03c6cf665c24b60b0f8e66a3becf964f)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:37:03.168 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:37:06.007 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (03c6cf665c24b60b0f8e66a3becf964f)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:37:06.007 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:37:10.870 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (03c6cf665c24b60b0f8e66a3becf964f)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:37:10.871 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:38:21.600 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:38:21.600 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:38:21.608 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:38:22.869 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (6844f8950e33d0237dd07122404e0c36)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:38:22.869 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:38:26.086 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (6844f8950e33d0237dd07122404e0c36)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:38:26.086 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:38:29.031 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (6844f8950e33d0237dd07122404e0c36)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:38:29.031 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:38:32.691 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (6844f8950e33d0237dd07122404e0c36)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:38:32.691 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:39:34.599 [main] Test_ContactLensesCategory - This is information message
+[INFO ] 2023-03-30 17:39:34.599 [main] Test_ContactLensesCategory - This is information message
+[ERROR] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is error message
+[ERROR] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is error message
+[WARN ] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is warning message
+[WARN ] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is warning message
+[FATAL] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is fatal message
+[FATAL] 2023-03-30 17:39:34.603 [main] Test_ContactLensesCategory - This is fatal message
+[INFO ] 2023-03-30 17:39:35.706 [main] Logger - Contact lenses button: [[ChromeDriver: chrome on WINDOWS (61df3816719a9c3ce2ebf029e6dbcc40)] -> xpath: //*[@id="main-menu"]/div[2]/ul/li[3]/a]
+[INFO ] 2023-03-30 17:39:35.707 [main] Logger - Contact lenses category is displayed in mega menu 
+[INFO ] 2023-03-30 17:39:44.557 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (61df3816719a9c3ce2ebf029e6dbcc40)] -> xpath: //*[@id="main-slider"]/div/div/div[2]/div[3]/a[2]]
+[INFO ] 2023-03-30 17:39:44.558 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:39:50.055 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (61df3816719a9c3ce2ebf029e6dbcc40)] -> xpath: //body/div[@id='wrapper']/main[@id='site-main']/div[1]/div[2]/div[1]/div[5]/div[3]/div[2]/div[1]/div[1]/div[1]/a[1]/div[3]/span[1]]
+[INFO ] 2023-03-30 17:39:50.055 [main] Logger - Color subcategory is displayed 
+[INFO ] 2023-03-30 17:39:56.447 [main] Logger - Color subcategory button: [[ChromeDriver: chrome on WINDOWS (61df3816719a9c3ce2ebf029e6dbcc40)] -> id: addToCartButton]
+[INFO ] 2023-03-30 17:39:56.447 [main] Logger - Color subcategory is displayed 
