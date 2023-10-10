@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Test application periodically'
+                echo 'Test application periodically after every commit'
             }
         }
         stage('Deploye') {
