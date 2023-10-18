@@ -28,6 +28,7 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.relevantcodes.extentreports.LogStatus;
 import com.suadeo.WEB.Config.PropertiesFile;
 import com.suadeo.WEB.PageObjects.SuadeoSignInPage;
+import com.suadeo.browser.utils.ReadXLXdata;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import library.ScreenShot;
@@ -41,10 +42,11 @@ public class Test_SignInPage extends  BaseClass {
 
 
 
-	@Test(priority=1)
-	//public void magrabiSignIn() throws IOException
-	public void TestCase_Verify_SignInPage() throws IOException, InterruptedException
+	@Test(priority=1,dataProviderClass=ReadXLXdata.class,dataProvider="Login")
+	public void TestCase_Verify_SignInPage(String username,String password) throws IOException, InterruptedException
+	
 	{
+		System.out.println("Hello");
 		// creates a toggle for the given test, adds all log events under it    
 		logger = extent.createTest("TestCase_Verify_SignIn Page", "to validate SignIn page");
 
@@ -52,11 +54,9 @@ public class Test_SignInPage extends  BaseClass {
 
 		try {
 
-			Assert.assertTrue(SignInObj.signInLinkClick(),"SignIn is displayed :");
+			Assert.assertTrue(SignInObj.signInLinkClick(username, password),"SignIn is displayed :");
 			logger.pass("Test Pass:");
 			logger.log(Status.PASS,"Test Pass: SignIn page is displayed and Clicked");
-
-
 		}
 		catch(Exception e)
 		{
@@ -65,7 +65,6 @@ public class Test_SignInPage extends  BaseClass {
 		}
 
 	}
-
 
 	@Test(priority=2)
 	public void TestCase_Verify_SignOutPage() throws IOException, InterruptedException
@@ -76,8 +75,6 @@ public class Test_SignInPage extends  BaseClass {
 
 		try
 		{
-
-
 
 			Assert.assertTrue(SignInObj.logoutLinkClick(),"Signout is displayed :");
 			logger.pass("Clicked SignOut button");

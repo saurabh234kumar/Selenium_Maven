@@ -58,7 +58,7 @@ public class Test_Menu extends  BaseClass {
 		// creates a toggle for the given test, adds all log events under it    
 		logger = extent.createTest("TestCase_Verify_Menu", "to validate menu page");
 		SignInObj = new SuadeoSignInPage(driver);
-		SignInObj.signInLinkClick();
+		SignInObj.signInLinkClick(null, null);
 		menuObj = new SuadeoMenuPage(driver);
 
 		try {

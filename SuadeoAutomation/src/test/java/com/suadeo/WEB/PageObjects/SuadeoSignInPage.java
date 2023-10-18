@@ -88,22 +88,25 @@ public class SuadeoSignInPage extends WebUtils{
 
 	}
 
-	public boolean signInLinkClick() throws InterruptedException{
+	public boolean signInLinkClick(String username, String password) throws InterruptedException{
 
 		boolean flag=true;
 		if(LoginAuthentication_Xpath.isDisplayed()==true){
 			LoginAuthentication_Xpath.getText();
 			testLogger.info("SignIn button: " +LoginAuthentication_Xpath);
+			System.out.println("Helloo");
 
 			//test.pass("Clicked SignIn button");
 			testLogger.info("SignIn Button is displayed ");
 			//driver.findElement((By) signInXpath).click();
 			LoginAuthentication_Xpath.click();
 			LoginAuthenticationDropDownButton_ID.click();
-			LoginUsername_Xpath.sendKeys("qatester");
-			LoginPassword_ID.sendKeys("&m.XkHUa.4qm7Df");
+//			LoginUsername_Xpath.sendKeys("qatester");
+//			LoginPassword_ID.sendKeys("&m.XkHUa.4qm7Df");
+			
+			LoginUsername_Xpath.sendKeys(username);
+			LoginPassword_ID.sendKeys(password);
 			LoginButton_ID.click();
-
 
 
 		}

@@ -49,7 +49,7 @@ public class Test_Catalogs extends  BaseClass {
 		logger = extent.createTest("TestCase_Verify_Menucatalog button", "to validate cataloge menu page");
 
 		SignInObj = new SuadeoSignInPage(driver);
-		SignInObj.signInLinkClick();
+		SignInObj.signInLinkClick(null, null);
 		logger.pass("SignIn page displayed and user loggedIn successfully");
 		menu = new SuadeoMenuPage(driver);
 		menu.HomeMenu_Click();

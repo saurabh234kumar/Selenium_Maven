@@ -1,9 +1,43 @@
-<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="https://maven.apache.org/POM/4.0.0" xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>SuadeoAutomation</groupId>
 	<artifactId>SuadeoAutomation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>5.2.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>5.2.4</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml-schemas</artifactId>
+			<version>4.1.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.xmlbeans</groupId>
+			<artifactId>xmlbeans</artifactId>
+			<version>5.1.1</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-collections4</artifactId>
+			<version>4.4</version>
+		</dependency>
+
+
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
@@ -22,7 +56,7 @@
 			<version>7.5</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-api</artifactId>
@@ -36,7 +70,7 @@
 			<artifactId>slf4j-api</artifactId>
 			<version>1.6.6</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-simple</artifactId>
@@ -65,8 +99,8 @@
 			<version>4.13.2</version>
 			<scope>test</scope>
 		</dependency>
-		
-	
+
+
 		<!-- start Test report from command prompt -->
 
 		<dependency>
@@ -86,12 +120,12 @@
 			<artifactId>maven-postman-plugin</artifactId>
 			<version>0.1.6</version>
 		</dependency>
-		
+
 		<dependency>
-    <groupId>org.apache.maven.plugins</groupId>
-    <artifactId>maven-compiler-plugin</artifactId>
-    <version>3.11.0</version>
-</dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-compiler-plugin</artifactId>
+			<version>3.11.0</version>
+		</dependency>
 
 
 		<!-- end Test report from command prompt -->
@@ -109,35 +143,24 @@
 			<artifactId>extentreports</artifactId>
 			<version>3.1.5</version>
 		</dependency>
-		
-			<!-- 
+
+		<!-- <dependency> <groupId>org.apache.logging.log4j</groupId> <artifactId>log4j-api</artifactId> 
+			<version>2.19.0</version> </dependency> <dependency> <groupId>org.apache.logging.log4j</groupId> 
+			<artifactId>log4j-core</artifactId> <version>2.19.0</version> </dependency> -->
 
 		<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-api</artifactId>
-			<version>2.19.0</version>
+			<groupId>org.codehaus.mojo</groupId>
+			<artifactId>selenium-maven-plugin</artifactId>
+			<version>2.3</version>
 		</dependency>
-	
-		<dependency>
-			<groupId>org.apache.logging.log4j</groupId>
-			<artifactId>log4j-core</artifactId>
-			<version>2.19.0</version>
-		</dependency>
-		
-		 -->
-		
-		<dependency> 
-		<groupId>org.codehaus.mojo</groupId> 
-		 <artifactId>selenium-maven-plugin</artifactId> 
-			<version>2.3</version> </dependency>
 	</dependencies>
 
-	 
+
 
 	<build>
 		<plugins>
-		
-		
+
+
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-surefire-plugin</artifactId>
@@ -148,7 +171,7 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
-			
+
 			<!-- Post-Man plugin -->
 			<plugin>
 				<groupId>ch.fortysix</groupId>
@@ -179,7 +202,7 @@
 							<!-- port of the host -->
 							<mailport>25</mailport>
 							<!-- if you make mailssl true,Build will fail -->
-							<mailssl>false</mailssl> 
+							<mailssl>false</mailssl>
 							<mailAltConfig>true</mailAltConfig>
 
 							<!-- Email Authentication(USername and Password) -->
@@ -207,7 +230,7 @@
 						</configuration>
 					</execution>
 				</executions>
-			</plugin>			
+			</plugin>
 		</plugins>
 	</build>
 </project>
