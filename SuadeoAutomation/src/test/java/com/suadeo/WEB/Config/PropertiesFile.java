@@ -41,9 +41,9 @@ public class PropertiesFile {
 			System.out.println(browser); 
 			String url = prop.getProperty("url");
 			System.out.println(url); 
-			Test_SignInPage.browserName=browser;
-			Test_Menu.browserName=browser;
-			Test_Catalogs.browserName=browser;
+//			Test_SignInPage.browserName=browser;
+//			Test_Menu.browserName=browser;
+//			Test_Catalogs.browserName=browser;
 			BaseClass.browserName=browser;
 			BaseClass.url=url;
 			

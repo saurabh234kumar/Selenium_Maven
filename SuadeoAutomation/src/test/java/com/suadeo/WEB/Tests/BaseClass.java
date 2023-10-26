@@ -60,6 +60,7 @@ public class BaseClass {
 		extent = new ExtentReports();
 		extent.attachReporter(htmlReporter);
 		PropertiesFile.getProperties();
+		deleteScreenshots();
 
 	}
 	//This will be executed before first @Test method execution. It will be executed one only time throughout the test case.
@@ -178,6 +179,28 @@ public class BaseClass {
 
         }
 	}
+	
+	// to delete all previous screenshots before running new tests
+	public static void deleteScreenshots() {
+        // Set the directory path where your screenshots are stored
+        String screenshotsDir = "C://local_repository//SuadeoTesting//Automation//SuadeoAutomation//screenshot//";
+        
+        // Create a File object representing the directory
+        File directory = new File(screenshotsDir);
+        
+        // Get all the files in the directory
+        File[] files = directory.listFiles();
+        
+        if (files != null) {
+            // Iterate over the files and delete them
+            for (File file : files) {
+                if (file.isFile()) {
+                    file.delete();
+                    System.out.println("Deleted file: " + file.getName());
+                }
+            }
+        }
+    }
 
 //This will be executed after the execution of all tests in the suite is complete.
 	@AfterSuite

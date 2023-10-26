@@ -3,8 +3,8 @@
 	<test name="Suadeo  Web  Sanity Suite" preserve-order="true">
 		<classes> <!-- Sanity Web Suites For Suadeo -->
 
-
-			<class name="com.suadeo.WEB.Tests.Test_SignInPage" />
+<class name="com.suadeo.WEB.Tests.Test_Menu" />
+		
 			
 			<!--
 			<class name="com.suadeo.WEB.Tests.Test_Menu" />
